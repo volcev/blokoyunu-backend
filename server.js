@@ -3,7 +3,7 @@ const express = require('express');
 const fs = require('fs');
 const cors = require('cors');
 const app = express();
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 
 app.use(cors());
 app.use(express.json());
@@ -28,13 +28,21 @@ app.patch('/grid/:index', (req, res) => {
   const { dugBy } = req.body;
 
   const data = readDB();
-  if (data.grid[index]) {
-    data.grid[index].dugBy = dugBy;
-    writeDB(data);
-    res.json({ success: true });
-  } else {
-    res.status(404).json({ error: 'Block not found' });
+  const block = data.grid[index];
+
+  if (!block) {
+    return res.status(404).json({ error: 'Block not found' });
   }
+
+  // 💥 Eşzamanlı kazı kontrolü
+  if (block.dugBy !== null) {
+    return res.status(400).json({ error: 'Bu blok zaten kazılmış.' });
+  }
+
+  block.dugBy = dugBy;
+  writeDB(data);
+
+  res.json({ success: true });
 });
 
 app.listen(PORT, () => {
