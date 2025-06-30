@@ -2,403 +2,503 @@
   "grid": [
     {
       "index": 0,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 1,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 2,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 3,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 4,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 5,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 6,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 7,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 8,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 9,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 10,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 11,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 12,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 13,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 14,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 15,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 16,
-      "dugBy": "ateş"
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 17,
-      "dugBy": "ateş"
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 18,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 19,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 20,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 21,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 22,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 23,
-      "dugBy": "volkan"
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 24,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 25,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 26,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 27,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 28,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 29,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 30,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 31,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 32,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 33,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 34,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 35,
-      "dugBy": "volkan"
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 36,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 37,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 38,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 39,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 40,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 41,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 42,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 43,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 44,
-      "dugBy": "volkan"
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 45,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 46,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 47,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 48,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 49,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 50,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 51,
-      "dugBy": "volki"
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 52,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 53,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 54,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 55,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 56,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 57,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 58,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 59,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 60,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 61,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 62,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 63,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 64,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 65,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 66,
-      "dugBy": "volki"
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 67,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 68,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 69,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 70,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 71,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 72,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 73,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 74,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 75,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 76,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 77,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 78,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 79,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 80,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 81,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 82,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 83,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 84,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 85,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 86,
-      "dugBy": "volki"
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 87,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 88,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 89,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 90,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 91,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 92,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 93,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 94,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 95,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 96,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 97,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 98,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     },
     {
       "index": 99,
-      "dugBy": null
+      "dugBy": null,
+      "color": null
     }
   ]
 }

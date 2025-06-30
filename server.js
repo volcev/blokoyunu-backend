@@ -25,7 +25,7 @@ app.get('/grid', (req, res) => {
 
 app.patch('/grid/:index', (req, res) => {
   const index = parseInt(req.params.index);
-  const { dugBy } = req.body;
+  const { dugBy, color } = req.body;
 
   const data = readDB();
   const block = data.grid[index];
@@ -40,6 +40,7 @@ app.patch('/grid/:index', (req, res) => {
   }
 
   block.dugBy = dugBy;
+  block.color = color; // 👈 Yeni: kazanın rengi kaydediliyor
   writeDB(data);
 
   res.json({ success: true });

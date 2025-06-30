@@ -5,7 +5,11 @@ const TOTAL_BLOCKS = 100;
 const grid = [];
 
 for (let i = 0; i < TOTAL_BLOCKS; i++) {
-  grid.push({ index: i, dugBy: null });
+  grid.push({
+    index: i,
+    dugBy: null,
+    color: null, // Yeni: renk bilgisi
+  });
 }
 
 const data = { grid };
